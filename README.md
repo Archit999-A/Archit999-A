@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @Archit999-A
-- 👀 I’m interested in python 
-- 🌱 I’m currently learning python
+- 👀 I’m interested in python
 - 💞️ I’m looking to collaborate on any kind of project
 - 📫 My email: architkumardhar9401@gmail.com
 
